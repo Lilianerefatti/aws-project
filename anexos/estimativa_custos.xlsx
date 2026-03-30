@@ -1,1 +1,15 @@
+#Planilha de valores
+| Infraestrutura | Antes (Servidor Local) | Depois (AWS) |
+| -------------- | ---------------------- | ------------ |
+| Armazenamento  | R$1200                 | R$300        |
+| Servidores     | R$2500                 | R$900        |
+| Automação      | R$800                  | R$200        |
+| **Total**      | **R$4500**             | **R$1400**   |
 
+Redução estimada: 68%
+
+Usei AWS Pricing Calculator
+
+Link:
+
+https://calculator.aws
